@@ -10,7 +10,7 @@ var renderer = new THREE.WebGLRenderer();
 renderer.setSize(canvas.offsetWidth, canvas.offsetHeight);
 renderer.setPixelRatio(window.devicePixelRatio);
 canvas.appendChild(renderer.domElement);
-const texture = new THREE.TextureLoader().load("mesh_pattern.svg");
+const texture = new THREE.TextureLoader().load("xemu.svg");
 texture.wrapS = THREE.RepeatWrapping;
 texture.wrapT = THREE.RepeatWrapping;
 texture.repeat.set(50, -25);
