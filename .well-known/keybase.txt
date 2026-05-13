@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fruq
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fruqal.wtf
+  * I am fruq (https://keybase.io/fruq) on keybase.
+  * I have a public key ASDMnMFAr265k3U-tDGDvJpsIaPpYYWi_CV_3VnQ-wwswwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cc9cc140af6eb993753eb43183bc9a6c21a3e96185a2fc257fdd59d0fb0c2cc30a",
+      "host": "keybase.io",
+      "kid": "0120cc9cc140af6eb993753eb43183bc9a6c21a3e96185a2fc257fdd59d0fb0c2cc30a",
+      "uid": "0f73c6ad65ead92c9db2c422eb0cb219",
+      "username": "fruq"
+    },
+    "merkle_root": {
+      "ctime": 1778635953,
+      "hash": "68dd91cfc2d932a012e7200f2b50e08f170aa760905b01f32cf0e70bcbe3e6d2b54168a5dcac0311be5ad5791810bcdccfd392ba2e7afffde69e1a8f74bdfc8c",
+      "hash_meta": "a412bea2315b8fa2bce478663a1f9f51f34b1697ec5b16fb9dc68d593ed115c4",
+      "seqno": 27576628
+    },
+    "service": {
+      "entropy": "nljSygb82BrZmlSbbuAq8JrK",
+      "hostname": "fruqal.wtf",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.6.2"
+  },
+  "ctime": 1778636219,
+  "expire_in": 504576000,
+  "prev": "a6c9ad9caad1c928e1720ed1de0f7fc7f72a7353590a5c158eed58d85b329f9d",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzJzBQK9uuZN1PrQxg7yabCGj6WGFovwlf91Z0PsMLMMKp3BheWxvYWTESpcCBcQgpsmtnKrRySjhcg7R3g9/x/cqc1NZClwVju1Y2Fsyn53EIHOdF/helVrGzrhtAXAZMxjjNf7czxILe3hUNmKAi7jXAgHCo3NpZ8RAWbm9OzainvztDhu2co6H2vtBOppaaUgu9NmXhx63jaVmQ7wkdek95WkKU75ojqQBXfeDFh7qyR4yI9cLHg7GD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMMPZsydNAfXGPzXIL76E+h34bDEYCH1h+yIqq97qpPno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fruq
+
+==================================================================
